@@ -1,15 +1,15 @@
-#Decomposição
+# Decomposição
 
 - Dividir o problema em partes, para facilitar na sua resolução
 
-#Padrões
+# Padrões
 
 - Reconhecer padrões que se repetem em cenários diferentes
 
-#Abstração
+# Abstração
 
 - Filtrar as características principais de um objeto, para que possa ser aplicado em outros cenários
 
-#Algoritmos
+# Algoritmos
 
 - Plano com os passos a serem executados para solucionar o problema
